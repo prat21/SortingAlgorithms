@@ -1,5 +1,9 @@
 package com.sort.algo;
-
+/*
+ * Important link explaining time complexity of quicksort: https://www.youtube.com/watch?v=3Bbm3Prd5Fo
+ * The best case time complexity is O(nlogn)
+ * The worst case (when the array is already sorted and pivot is last element) time complexity is O(n^2)
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
